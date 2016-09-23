@@ -1,2 +1,2 @@
 # LPTHW
-This is a playbook of Learn Python the hard way
+This is my playground of Learn Python the hard way
